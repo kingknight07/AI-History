@@ -68,5 +68,6 @@ Now, we have **Generative AI** and **Large Language Models (LLMs)** that surpass
 
 Nonetheless, these advancements have opened **new possibilities** in the development of chatbots and real-world applications.
 
- ![slef-attention](https://github.com/user-attachments/assets/aadbd756-74dc-4735-a916-677bbef6ec22)
+ ![Designer (4)](https://github.com/user-attachments/assets/6c404e2e-4a53-4577-8a3b-e6afd56c76ef)
+
 
